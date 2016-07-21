@@ -1,1 +1,16 @@
-/* Escribe tu css aqui */
+div p {
+	margin: 0px;
+	width: 500px;
+	height: 150px;
+	margin-bottom: 20px;
+}
+p {
+	padding: 10px;
+}
+
+.yellow {
+	background: yellow;
+}
+.red {
+	background: red;
+}
